@@ -16,6 +16,7 @@
 * Go to Action> RDP_COFFIN> Run workflow
 * Reload the page and press RDP_COFFIN> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
-> If you have any questions, contact me in Discord: **vv#0999**
+> If you have any questions, contact me in Discord:
+> https://discord.gg/fgsK9wqWhQ
 ## Original Repositor :
 > https://github.com/c9ffin/rdp
